@@ -4,6 +4,7 @@
 A controlled campus delivery service is offered on university campuses which allows students to order food and earn money as delivery drivers. We are implementing a rating system that tracks ratings for delivery drivers and restaurants. The rating system stores information about individual drivers and restaurants along with their ratings.
 
 ## Use Case For Rating System
+![](Images/RatingSystemUseCase.png)
 
 ## Business Rules
 * Faculty and students may choose to not provide a rating 
