@@ -12,8 +12,9 @@ A controlled campus delivery service is offered on university campuses which all
 * One customer can only be a faculty, student, or staff
 * Only students can be drivers and must be approved
 * Database will store the drivers license number, datehired, vehicle information, and ratings
-* All deliveries are tied to one person and one restaurant
-* Drivers may only deliver one order at a time but can deliver many times
+* All deliveries are tied to one person/customer and one restaurant
+* Restaurants may have many drivers
+* Drivers may deliver for one restaurant and one order at a time
 * One person may order one or many times and therefore can rate many times
 * Restaurants must be approved and will provide an ID, location, schedule, website, and other attributes
 * Administrators must be approved and can choose to not review any ratings
