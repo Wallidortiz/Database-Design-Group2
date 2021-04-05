@@ -15,6 +15,7 @@ A controlled campus delivery service is offered on university campuses which all
 * Restaurants must be approved and will provide an ID, location, schedule, website, and other attributes
 
 ## EERD
+![](Images/CampusEatsModel.png)
 ## MySQL Queries
 ## Stored Procedures
 ## Web/App Implementation (Optional) or Description of Future Work
