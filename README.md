@@ -21,8 +21,9 @@ A controlled campus delivery service is offered on university campuses which all
 * Ratings will include a description and 1-5 star rating
 
 ## EERD
-![](Images/CampusEatsModel.png)
+![](Images/EERD.png)
 ## MySQL Queries
+
 ## Stored Procedures
 ## Web/App Implementation (Optional) or Description of Future Work
 ## MySQL dump
