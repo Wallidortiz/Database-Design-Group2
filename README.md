@@ -27,7 +27,7 @@ A controlled campus delivery service is offered on university campuses which all
 ## Stored Procedures
 ## Web/App Implementation (Optional) or Description of Future Work
 ## MySQL Dump
-[SQL Dump](ITCS 3160 Group 2 project.sql)
+[SQL Dump](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/ITCS%203160%20Group%202%20project.sql)
 ## Project Video
 
 ## Contributors
