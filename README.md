@@ -25,6 +25,7 @@ A controlled campus delivery service is offered on university campuses which all
 ## MySQL Queries
 
 ## Stored Procedures
+[Average Driver Rating](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/avg_driver.sql)
 ## Web/App Implementation (Optional) or Description of Future Work
 ## MySQL Dump
 [SQL Dump](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/ITCS%203160%20Group%202%20project.sql)
