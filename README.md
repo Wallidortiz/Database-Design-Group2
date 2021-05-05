@@ -25,7 +25,9 @@ A controlled campus delivery service is offered on university campuses which all
 ## MySQL Advanced Queries
 [Driver Performance Per Order](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/driver_ratings.sql)  
 ![](/driver_ratings_explain.png)
+
 [Ratings by Restaurant](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/Avg_rating_by_restaurant.sql)<br/>
+
 ![](/avg_restaurant_rating_explain.png)
 ## Stored Procedures
 [Average Driver Rating](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/avg_driver.sql)
