@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">avg(overall_rating)</Data></Cell>
+			<Cell><Data ss:Type="String">restaurant_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">6.5</Data></Cell>
+			<Cell><Data ss:Type="String">Rath Ltd</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Berge Inc</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7.5</Data></Cell>
+			<Cell><Data ss:Type="String">Ratke LLC</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Ryan, Jaskolski and Schinner</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">O'Conner-Mraz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Grady, Kreiger and Frami</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8.5</Data></Cell>
+			<Cell><Data ss:Type="String">Ankunding Group</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4.5</Data></Cell>
+			<Cell><Data ss:Type="String">Connelly, Wolf and Murazik</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3.5</Data></Cell>
+			<Cell><Data ss:Type="String">Heathcote, Kovacek and Cummerata</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8.5</Data></Cell>
+			<Cell><Data ss:Type="String">Hermiston-Purdy</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
