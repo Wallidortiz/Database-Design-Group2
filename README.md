@@ -37,7 +37,7 @@ A controlled campus delivery service is offered on university campuses which all
 [SQL Dump](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/ITCS%203160%20Group%202%20project.sql) <br/>
 [Final SQL Dump](https://github.com/Wallidortiz/Database-Design-Group2/blob/main/Final_Dump.sql)
 ## Project Video
-https://www.youtube.com/watch?v=RBQh5bcuFro
+[Final Project](https://www.youtube.com/watch?v=RBQh5bcuFro)
 ## Contributors
 * Wallid Ortiz
 * Christian Hasty
